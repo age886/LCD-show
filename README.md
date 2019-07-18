@@ -63,91 +63,91 @@ EN: http://www.lcdwiki.com/2.4inch_RPi_Display
 # 2.4” RPi Display For RPi 3A+ (MPI2411):
 ### Driver install:
 sudo ./LCD24-3A+-show  
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/2.4inch_RPi_Display_For_RPi_3A+   <br>
 EN: http://www.lcdwiki.com/2.4inch_RPi_Display_For_RPi_3A+
 
 # 2.8” RPi Display (MPI2801):
 ### Driver install:
 sudo ./LCD28-show 
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/2.8inch_RPi_Display  <br>
 EN: http://www.lcdwiki.com/2.8inch_RPi_Display
   
 # 3.2” RPi Display (MPI3201):
 ### Driver install:
 sudo ./LCD32-show   
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/3.2inch_RPi_Display  <br>
 EN: http://www.lcdwiki.com/3.2inch_RPi_Display
 
 # MHS-3.2” RPi Display (MHS3232):
 ### Driver install:
 sudo ./MHS32-show   
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/MHS-3.2inch_Display  <br>
 EN: http://www.lcdwiki.com/MHS-3.2inch_Display
 
 # 3.5” RPi Display(MPI3501):
 ### Driver install:
 sudo ./LCD35-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/3.5inch_RPi_Display  <br>
 EN: http://www.lcdwiki.com/3.5inch_RPi_Display
    
 # 3.5” HDMI Display-B(MPI3508):
 ### Driver install:
 sudo ./MPI3508-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/3.5inch_HDMI_Display-B  <br>
 EN: http://www.lcdwiki.com/3.5inch_HDMI_Display-B
     
 # MHS-3.5” RPi Display(MHS3528):
 ### Driver install:
 sudo ./MHS35-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/MHS-3.5inch_RPi_Display  <br>
 EN:http://www.lcdwiki.com/MHS-3.5inch_RPi_Display
     
 # 4.0" HDMI Display(MPI4008):
 ### Driver install:
 sudo ./MPI4008-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/4inch_HDMI_Display-C  <br>
 EN: http://www.lcdwiki.com/4inch_HDMI_Display-C
    
 # MHS-4.0" HDMI Display-B(MHS4001):
 ### Driver install:
 sudo ./MHS40-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/MHS-4.0inch_Display-B  <br>
 EN: http://www.lcdwiki.com/MHS-4.0inch_Display-B
   
 # 5.0” HDMI Display(Resistance touch)(MPI5008):
 ### Driver install:
 sudo ./LCD5-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/5inch_HDMI_Display  <br>
 EN: http://www.lcdwiki.com/5inch_HDMI_Display
     
 # 5inch HDMI Display-B(Capacitor touch)(MPI5001):
 ### Driver install:
 sudo ./MPI5001-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/5inch_HDMI_Display-B  <br>
 EN: http://www.lcdwiki.com/5inch_HDMI_Display-B
     
 # 7inch HDMI Display-B-800X480(MPI7001):
 ### Driver install:
 sudo ./LCD7B-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/7inch_HDMI_Display-B  <br>
 EN: http://www.lcdwiki.com/7inch_HDMI_Display-B
    
 # 7inch HDMI Display-C-1024X600(MPI7002):
 ### Driver install:
 sudo ./LCD7C-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/7inch_HDMI_Display-C  <br>
 EN: http://www.lcdwiki.com/7inch_HDMI_Display-C
    
