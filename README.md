@@ -55,7 +55,7 @@ And Ensure that the Raspberry Pi is connected to the Internet before executing t
 # 2.4” RPi Display (MPI2401):
 ### Driver install:
 sudo ./LCD24-show
-## WIKI:
+### WIKI:
 CN: http://www.lcdwiki.com/zh/2.4inch_RPi_Display  <br>
 EN: http://www.lcdwiki.com/2.4inch_RPi_Display
  
